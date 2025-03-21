@@ -1,5 +1,5 @@
 algoritmo "triangulo"
-
+//20.03.2025 
 var
 A,B,C: REAL
 N: CARACTER
@@ -12,7 +12,7 @@ LEIA (B)
 ESCREVAL("DIGITE VALOR DO LADO C:")
 LEIA (C)
 SE (A<(B+C)) E (B<(A+C)) E (C<(A+B)) ENTAO
-   ESCREVAL ("É TRIANGULO ")
+   ESCREVAL ("Ã‰ TRIANGULO ")
    se (A=B) E (B=C) ENTAO
       ESCREVAL ("EQUILATERO")
    FIMSE
