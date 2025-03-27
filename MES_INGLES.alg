@@ -2,7 +2,7 @@ algoritmo "MES EM INGLES "
 var
 n1 : INTEIRO
 inicio
-escreval ("digite o numero do mês ")
+escreval ("digite o numero do mÃªs ")
 leia (n1)
 ESCOLHA N1
 caso 1
@@ -30,7 +30,7 @@ caso 11
 caso 12
    escreval ("December ")
 OUTROCASO
-   ESCREVAL ("NAO EXISTE MES ")
+   ESCREVAL ("Month does not exist ")
 
 fimescolha
 
